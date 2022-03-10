@@ -1,7 +1,7 @@
-Project setup
+Project setup :- 
 npm install
 
 
 ____________________________________________________________________________________
-Run
+Run:- 
 node csv-mongodb-csvtojson.js
